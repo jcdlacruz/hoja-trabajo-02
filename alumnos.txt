@@ -1,0 +1,10 @@
+abc1	Julio	80
+abc2	Juan	60
+abc3	Jose	15
+abc4	Perez	99
+abc5	Gonzales	70
+abc6	Maria	30
+abc7	Luis	20
+abc8	Ricardo	99
+abc9	Josefa	70
+abc10	Perico	12

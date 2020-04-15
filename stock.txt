@@ -1,0 +1,7 @@
+a1	Kellogs	10	100	5.55
+a2	Coca-Cola	100	15	15.75
+a3	Volcan	1	0	80
+4	Berna	1000	1500	2.25
+5	San-Martin	50	25	105
+r001	Rubik	100	101	30.5
+r002	Gan	100	99	90.99
